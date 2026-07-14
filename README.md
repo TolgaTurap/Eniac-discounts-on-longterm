@@ -37,17 +37,13 @@ Moderate discounts appear to balance customer demand and revenue generation more
 
 ---
 
-## 📊 Featured Visualization
-
-*(Insert your strongest visualization here — I recommend the "Distribution of Discounts" or the "Black Friday Revenue" chart.)*
-
----
-
 # 🎯 Project Overview
 
 This project investigates whether long-term discount campaigns are beneficial for **Eniac**, a premium technology retailer.
 
 Using **Python**, **Pandas**, **Seaborn**, and **Exploratory Data Analysis (EDA)**, I cleaned a complex transactional dataset, analysed customer purchasing behaviour, identified seasonal sales patterns, and developed business recommendations for an effective pricing strategy.
+
+The analysis demonstrates that targeted seasonal campaigns outperform permanent discounts and should be prioritised to maximise revenue while protecting profit margins.
 
 ---
 
@@ -112,28 +108,10 @@ Rather than offering discounts throughout the year, Eniac should focus promotion
 
 # 🛠️ Technologies Used
 
-### Programming
-
-* Python
-
-### Libraries
-
-* Pandas
-* NumPy
-* Seaborn
-* Matplotlib
-
-### Data Analysis
-
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Feature Engineering
-* Business Analytics
-
-### Environment
-
-* Google Colab
-* GitHub
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Techniques:** Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization
+- **Environment:** Google Colab, GitHub
 
 ---
 
@@ -150,21 +128,11 @@ eniac-discount-strategy/
 
 ---
 
-# 📈 Visualizations
-
-### Discount Distribution
-
-Shows that most discounts are concentrated between 10–25%.
-
-*(Insert chart)*
-
----
-
 ### Revenue Development
 
 Illustrates cumulative revenue growth across the observation period.
 
-*(Insert chart)*
+<img width="1024" height="431" alt="Bildschirmfoto 2026-07-14 um 15 48 39" src="https://github.com/user-attachments/assets/27c95baf-c9ca-4d38-9149-1145c538f9d6" />
 
 ---
 
@@ -172,7 +140,7 @@ Illustrates cumulative revenue growth across the observation period.
 
 Demonstrates the significant increase in revenue generated during seasonal campaigns.
 
-*(Insert chart)*
+<img width="978" height="404" alt="Bildschirmfoto 2026-07-14 um 15 47 26" src="https://github.com/user-attachments/assets/14cdcb13-60cd-47c0-a563-e253cbaacf84" />
 
 ---
 
@@ -199,7 +167,7 @@ Potential improvements include:
 
 # 👥 Team Project
 
-This project was completed as part of the **WBS Coding School Data Analytics & AI Program**.
+This project was completed as part of the **WBS Coding School Data Analytics & AI Program** in a collaborative team environment.
 
 ---
 

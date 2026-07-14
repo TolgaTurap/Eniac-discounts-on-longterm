@@ -13,7 +13,7 @@
 
 ---
 
-# ✅ Business Recommendation
+## ✅ Business Recommendation
 
 **Continue offering discounts — but only strategically, not permanently.**
 
@@ -29,7 +29,7 @@ The analysis shows that discounts increase purchase frequency but do not automat
 
 ---
 
-# 📈 Key Business Insight
+## 📈 Key Business Insight
 
 > **The average discount is 22.8%, and most discounts fall between 10% and 25%.**
 
@@ -37,7 +37,7 @@ Moderate discounts appear to balance customer demand and revenue generation more
 
 ---
 
-# 🎯 Project Overview
+## 🎯 Project Overview
 
 This project investigates whether long-term discount campaigns are beneficial for **Eniac**, a premium technology retailer.
 
@@ -47,7 +47,7 @@ The analysis demonstrates that targeted seasonal campaigns outperform permanent 
 
 ---
 
-# 📊 Dataset
+## 📊 Dataset
 
 ### Source
 
@@ -72,11 +72,12 @@ The dataset required extensive preprocessing before analysis:
 * Incorrect data types converted
 * Duplicate records removed
 * Invalid values corrected
+* Created a reliable dataset for business decision-making
 * More than **70% of the original data** was removed due to quality issues.
 
 ---
 
-# 🚀 Key Findings
+## 🚀 Key Findings
 
 ### 📈 Discounted products sell more frequently
 
@@ -106,7 +107,7 @@ Rather than offering discounts throughout the year, Eniac should focus promotion
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Programming:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
@@ -115,14 +116,13 @@ Rather than offering discounts throughout the year, Eniac should focus promotion
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 eniac-discount-strategy/
 
-├── eniac_discount_strategy.ipynb     # Complete data cleaning, analysis and visualization
-├── presentation.pdf                  # Final business presentation
-├── images/                           # Charts used in README
+├── eniac_discount_strategy.ipynb                             # Complete data cleaning, analysis and visualization
+├── eniac_discount_strategy_presentation.pdf                  # Final business presentation
 └── README.md
 ```
 
@@ -144,7 +144,7 @@ Demonstrates the significant increase in revenue generated during seasonal campa
 
 ---
 
-# 🔗 How to Use This Project
+## 🔗 How to Use This Project
 
 1. Open the Jupyter Notebook.
 2. Run all cells in Google Colab or Jupyter Notebook.
@@ -153,7 +153,7 @@ Demonstrates the significant increase in revenue generated during seasonal campa
 
 ---
 
-# 🚀 Future Work
+## 🚀 Future Work
 
 Potential improvements include:
 
@@ -165,13 +165,13 @@ Potential improvements include:
 
 ---
 
-# 👥 Team Project
+## 👥 Team Project
 
 This project was completed as part of the **WBS Coding School Data Analytics & AI Program** in a collaborative team environment.
 
 ---
 
-# 📧 Contact
+## 📧 Contact
 
 **Tolga Turap**
 

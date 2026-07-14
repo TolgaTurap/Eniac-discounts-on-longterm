@@ -92,8 +92,8 @@ The dataset required extensive preprocessing before analysis:
 
 ### 🎄 Seasonal effects
 
-* November generated the highest monthly revenue.
-* Black Friday produced the strongest sales increase.
+* November generated the highest monthly revenue **231,8 Tsd**.
+* Black Friday produced the strongest sales increase **ca. 1.4 million revenue**.
 * Christmas also contributed significantly to revenue growth.
 
 ### 📊 Revenue Growth

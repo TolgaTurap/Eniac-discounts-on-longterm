@@ -101,7 +101,7 @@ The dataset required extensive preprocessing before analysis:
 
 ### 🎄 Seasonal effects
 
-* November generated the highest monthly total discounts **€231,8 Tsd**.
+* November generated the highest monthly total discounts **€231,8 thousand**.
 * Black Friday (November) produced the strongest sales increase **ca. €1.4 million revenue**.
 * Christmas also contributed significantly to revenue growth.
 
@@ -144,10 +144,10 @@ Demonstrates the significant increase in revenue generated during seasonal campa
 ## 📁 Project Structure
 
 ```text
-eniac-discount-strategy/
+E-Commerce-discounts-on-longterm/
 
-├── eniac_discount_strategy.ipynb                             # Complete data cleaning, analysis and visualization
-├── eniac_discount_strategy_presentation.pdf                  # Final business presentation
+├── E-Commerce_eniac_discount_strategy.ipynb                             # Complete data cleaning, analysis and visualization
+├── presentation.pdf                                                     # Final business presentation
 └── README.md
 ```
 
@@ -180,7 +180,7 @@ This project was completed as part of the **WBS Coding School Data Analytics & A
 
 ---
 
-## Download Dataset used for analysis
+## [![Download Dataset] Download Dataset used for analysis
 
 https://drive.google.com/drive/folders/1DcPvzOclPHoZtfkWAWWAnpODH8gQI-ie?usp=share_link
 

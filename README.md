@@ -1,4 +1,4 @@
-# Eniac Discount Strategy Analysis: Should Discounts Remain a Long-Term Business Strategy?
+# E-Commerce Discount Strategy Analysis: Should Discounts Remain a Long-Term Business Strategy?
 
 ## 🛠️ Tech Stack
 

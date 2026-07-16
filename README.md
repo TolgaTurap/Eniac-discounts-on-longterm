@@ -13,7 +13,7 @@
 
 ---
 
-[![View Presentation](https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint)](eniac_discount_strategy_presentation.pdf)
+[![View Presentation](https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint)](presentation/E-Commerce_eniac-discount-strategy-presentation.pdf)
 
 ---
 

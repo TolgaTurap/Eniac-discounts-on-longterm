@@ -105,6 +105,9 @@ The dataset required extensive preprocessing before analysis:
 * Black Friday (November) produced the strongest sales increase **ca. €1.4 million revenue**.
 * Christmas also contributed significantly to revenue growth.
 
+  <img width="818" height="421" alt="Bildschirmfoto 2026-07-16 um 11 03 04" src="https://github.com/user-attachments/assets/321bb56f-2102-4ef6-afa6-d9eefe026712" />
+
+
 ### 📊 Revenue Growth
 
 * Total cumulative revenue reached **€7.01 million**.

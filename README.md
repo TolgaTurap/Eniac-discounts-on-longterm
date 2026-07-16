@@ -115,10 +115,20 @@ The dataset required extensive preprocessing before analysis:
 
   <img width="720" height="302" alt="Bildschirmfoto 2026-07-16 um 11 08 02" src="https://github.com/user-attachments/assets/311b0c90-17b2-48e0-bd1b-f0bb42b674d3" />
 
+  
+### Revenue Development
 
-### 📈 Business Recommendation
+Illustrates revenue growth with discount and without discount (Baseline-Analysis) across the observation period.
 
-Rather than offering discounts throughout the year, Eniac should focus promotional activities on high-impact seasonal events such as Black Friday and Christmas while maintaining moderate discount levels during the rest of the year.
+<img width="647" height="277" alt="Bildschirmfoto 2026-07-16 um 11 07 18" src="https://github.com/user-attachments/assets/254ffb8c-e9c0-488c-92a8-198f123d5a9b" />
+
+---
+
+### Black Friday Effect
+
+Demonstrates the significant increase in revenue generated during seasonal campaigns.
+
+<img width="978" height="404" alt="Bildschirmfoto 2026-07-14 um 15 47 26" src="https://github.com/user-attachments/assets/14cdcb13-60cd-47c0-a563-e253cbaacf84" />
 
 ---
 
@@ -140,22 +150,6 @@ eniac-discount-strategy/
 ├── eniac_discount_strategy_presentation.pdf                  # Final business presentation
 └── README.md
 ```
-
----
-
-### Revenue Development
-
-Illustrates revenue growth with discount and without discount (Baseline-Analysis) across the observation period.
-
-<img width="647" height="277" alt="Bildschirmfoto 2026-07-16 um 11 07 18" src="https://github.com/user-attachments/assets/254ffb8c-e9c0-488c-92a8-198f123d5a9b" />
-
----
-
-### Black Friday Effect
-
-Demonstrates the significant increase in revenue generated during seasonal campaigns.
-
-<img width="978" height="404" alt="Bildschirmfoto 2026-07-14 um 15 47 26" src="https://github.com/user-attachments/assets/14cdcb13-60cd-47c0-a563-e253cbaacf84" />
 
 ---
 

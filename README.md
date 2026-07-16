@@ -17,7 +17,7 @@
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TolgaTurap/REPOSITORY/blob/main/E-Commerce_eniac-discount-strategy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TolgaTurap/Eniac-discounts-on-longterm/blob/main/E-Commerce_eniac-discount-strategy.ipynb)
 
 ---
 

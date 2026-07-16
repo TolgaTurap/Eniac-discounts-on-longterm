@@ -39,10 +39,6 @@ The analysis shows that discounts increase purchase frequency but do not automat
 
 ---
 
-<img width="781" height="494" alt="Bildschirmfoto 2026-07-14 um 15 14 46" src="https://github.com/user-attachments/assets/8f262b12-23d3-480b-9e57-54af1f7aa1f6" />
-
----
-
 <img width="975" height="406" alt="Bildschirmfoto 2026-07-14 um 15 15 11" src="https://github.com/user-attachments/assets/0ee40452-3701-43d0-8717-be11c209cd7d" />
 
 ---
@@ -92,11 +88,16 @@ The dataset required extensive preprocessing before analysis:
 * Discounted products achieve higher purchase volumes.
 * However, higher sales volume does **not** necessarily translate into higher revenue.
 
+ <img width="781" height="494" alt="Bildschirmfoto 2026-07-14 um 15 14 46" src="https://github.com/user-attachments/assets/8f262b12-23d3-480b-9e57-54af1f7aa1f6" />
+
 ### 💰 Average discount
 
 * Average discount: **22.8%**
 * Most discounts lie between **10% and 25%**.
 * Extremely high discounts are rare.
+
+<img width="644" height="312" alt="Bildschirmfoto 2026-07-16 um 11 01 09" src="https://github.com/user-attachments/assets/5fa68ed5-329b-4c7f-8610-3dc3864d8f5f" />
+
 
 ### 🎄 Seasonal effects
 

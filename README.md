@@ -113,6 +113,9 @@ The dataset required extensive preprocessing before analysis:
 * Total cumulative revenue reached **€7.01 million**.
 * The strongest revenue growth occurred during Q4 2017.
 
+  <img width="720" height="302" alt="Bildschirmfoto 2026-07-16 um 11 08 02" src="https://github.com/user-attachments/assets/311b0c90-17b2-48e0-bd1b-f0bb42b674d3" />
+
+
 ### 📈 Business Recommendation
 
 Rather than offering discounts throughout the year, Eniac should focus promotional activities on high-impact seasonal events such as Black Friday and Christmas while maintaining moderate discount levels during the rest of the year.
@@ -142,9 +145,9 @@ eniac-discount-strategy/
 
 ### Revenue Development
 
-Illustrates cumulative revenue growth across the observation period.
+Illustrates revenue growth with discount and without discount (Baseline-Analysis) across the observation period.
 
-<img width="1024" height="431" alt="Bildschirmfoto 2026-07-14 um 15 48 39" src="https://github.com/user-attachments/assets/27c95baf-c9ca-4d38-9149-1145c538f9d6" />
+<img width="647" height="277" alt="Bildschirmfoto 2026-07-16 um 11 07 18" src="https://github.com/user-attachments/assets/254ffb8c-e9c0-488c-92a8-198f123d5a9b" />
 
 ---
 

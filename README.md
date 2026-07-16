@@ -13,6 +13,24 @@
 
 ---
 
+[![View Presentation](https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint)](eniac_discount_strategy_presentation.pdf)
+
+---
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TolgaTurap/REPOSITORY/blob/main/eniac_discount_strategy.ipynb)
+
+---
+
+## 🎯 Project Overview
+
+This project investigates whether long-term discount campaigns are beneficial for **Eniac**, a premium technology retailer.
+
+Using **Python**, **Pandas**, **Seaborn**, and **Exploratory Data Analysis (EDA)**, I cleaned a complex transactional dataset, analysed customer purchasing behaviour, identified seasonal sales patterns, and developed business recommendations for an effective pricing strategy.
+
+The analysis demonstrates that targeted seasonal campaigns outperform permanent discounts and should be prioritised to maximise revenue while protecting profit margins.
+
+---
+
 ## ✅ Business Recommendation
 
 **Continue offering discounts — but only strategically, not permanently.**
@@ -34,16 +52,6 @@ The analysis shows that discounts increase purchase frequency but do not automat
 > **The average discount is 22.8%, and most discounts fall between 10% and 25%.**
 
 Moderate discounts appear to balance customer demand and revenue generation more effectively than aggressive price reductions.
-
----
-
-## 🎯 Project Overview
-
-This project investigates whether long-term discount campaigns are beneficial for **Eniac**, a premium technology retailer.
-
-Using **Python**, **Pandas**, **Seaborn**, and **Exploratory Data Analysis (EDA)**, I cleaned a complex transactional dataset, analysed customer purchasing behaviour, identified seasonal sales patterns, and developed business recommendations for an effective pricing strategy.
-
-The analysis demonstrates that targeted seasonal campaigns outperform permanent discounts and should be prioritised to maximise revenue while protecting profit margins.
 
 ---
 

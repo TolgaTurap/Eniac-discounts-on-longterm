@@ -23,7 +23,7 @@
 
 ## 🎯 Project Overview
 
-This project investigates whether long-term discount campaigns are beneficial for **Eniac**, a premium technology retailer.
+This project investigates whether long-term discount campaigns are beneficial for **Eniac**, an **E-Commerce** premium technology retailer.
 
 Using **Python**, **Pandas**, **Seaborn**, and **Exploratory Data Analysis (EDA)**, I cleaned a complex transactional dataset, analysed customer purchasing behaviour, identified seasonal sales patterns, and developed business recommendations for an effective pricing strategy.
 

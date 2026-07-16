@@ -13,11 +13,11 @@
 
 ---
 
-[![View Presentation](https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint)](presentation/E-Commerce_eniac-discount-strategy-presentation.pdf)
+[![View Presentation](https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint)](presentation/presentation.pdf)
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TolgaTurap/REPOSITORY/blob/main/eniac_discount_strategy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TolgaTurap/REPOSITORY/blob/main/E-Commerce_eniac-discount-strategy.ipynb)
 
 ---
 

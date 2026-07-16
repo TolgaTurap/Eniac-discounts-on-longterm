@@ -186,6 +186,12 @@ This project was completed as part of the **WBS Coding School Data Analytics & A
 
 ---
 
+## Download Dataset used for analysis
+
+https://drive.google.com/drive/folders/1DcPvzOclPHoZtfkWAWWAnpODH8gQI-ie?usp=share_link
+
+---
+
 ## 📧 Contact
 
 **Tolga Turap**
